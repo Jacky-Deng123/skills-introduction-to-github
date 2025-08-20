@@ -17,7 +17,7 @@
 
 ### 开源情况
 - **是否开源**：是
-- **代码链接**：[代码链接]((https://github.com/microsoft/AI2BMD/tree/ViSNet))  
+- **代码链接**：[代码链接](https://github.com/microsoft/AI2BMD/tree/ViSNet)  
 
 ### 补充说明
 暂无
